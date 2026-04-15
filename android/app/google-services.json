@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "178341348430",
+    "project_id": "biomove-c5ee5",
+    "storage_bucket": "biomove-c5ee5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178341348430:android:90e560889de8361f3daf1f",
+        "android_client_info": {
+          "package_name": "com.biomove.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178341348430-j5svl1nokaho0alc0bpulckkfti6dn71.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.biomove.app",
+            "certificate_hash": "bc1212f969225e3ec9f44892d12dc669facbeedf"
+          }
+        },
+        {
+          "client_id": "178341348430-624smbtjhkkq8dsp10ptcankvic8vg49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVuI4S-MvZhBrenCp4MsyQIufGOzwhHUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178341348430-624smbtjhkkq8dsp10ptcankvic8vg49.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "178341348430-sen3mj50jt3vbpi4sbtolosa1i58s5tr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.biomove.biomove"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178341348430:android:3f77e0a81c9025c03daf1f",
+        "android_client_info": {
+          "package_name": "com.biomove.biomove"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178341348430-624smbtjhkkq8dsp10ptcankvic8vg49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVuI4S-MvZhBrenCp4MsyQIufGOzwhHUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178341348430-624smbtjhkkq8dsp10ptcankvic8vg49.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "178341348430-sen3mj50jt3vbpi4sbtolosa1i58s5tr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.biomove.biomove"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
